@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erastotene", "Eratotene\Era
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromo", "Palindromo\Palindromo.csproj", "{36EE8EEB-37C7-44A5-A334-E8153FE629D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{BFF7341D-A61E-4138-9223-E52BBD33EDB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{36EE8EEB-37C7-44A5-A334-E8153FE629D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EE8EEB-37C7-44A5-A334-E8153FE629D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EE8EEB-37C7-44A5-A334-E8153FE629D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
