@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromo", "Palindromo\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{BFF7341D-A61E-4138-9223-E52BBD33EDB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{11B2BFF0-EDEA-441E-AC4F-1C222D1C37CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF7341D-A61E-4138-9223-E52BBD33EDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B2BFF0-EDEA-441E-AC4F-1C222D1C37CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B2BFF0-EDEA-441E-AC4F-1C222D1C37CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B2BFF0-EDEA-441E-AC4F-1C222D1C37CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B2BFF0-EDEA-441E-AC4F-1C222D1C37CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
